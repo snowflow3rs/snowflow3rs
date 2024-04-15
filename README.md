@@ -18,7 +18,7 @@ About me i'm enjoy designing thing and love to self learn new technology. Other 
 - NodeJS/ExpressJS
 - Figma/Postman
 - Redux
-- Mongodb, MSSQL Server, Prisma
+- Mongodb/MSSQL Server/Prisma
 
 <br>
 <br>
