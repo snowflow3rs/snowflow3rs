@@ -15,9 +15,10 @@ About me i'm enjoy designing thing and love to self learn new technology. Other 
 - React/NextJS
 - TailwindCSS/SCSS
 - Framer motion/ Gsap
-- Shacn/ui
+- NodeJS/ExpressJS
 - Figma/Postman
-- Redux 
+- Redux
+- Mongodb, MSSQL Server, Prisma
 
 <br>
 <br>
